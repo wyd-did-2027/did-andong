@@ -27,10 +27,10 @@ export const content = {
     footer: {
       logoAlt: "wyd did 안동 로고",
       address:
-        "경상북도 안동시 마지락길 77 WYD 안동 교구대회 사무국",
-      email: "qna.wyd.doc.icn@gmail.com",
-      phone: "032-765-6997",
-      hours: "운영시간: 10:00 ~ 18:00",
+        "경상북도 안동시 마지락길 77",
+      email: "2027wyd.andong@gmail.com",
+      phone: "054-858-3114~5",
+      hours: "운영시간: 월~금 09:00~18:00 (점심시간 12:30~13:30)",
       copyright: "Copyright ⓒ 안동교구 All rights reserved",
     },
     slider: {
@@ -85,10 +85,10 @@ export const content = {
     footer: {
       logoAlt: "wyd did Andong logo",
       address:
-        "77, Majirak-gil, Andong-si, Gyeongsangbuk-do, WYD Andong Diocesan Committee",
-      email: "qna.wyd.doc.icn@gmail.com",
-      phone: "032-765-6997",
-      hours: "Hours: 10:00 ~ 18:00",
+        "77, Majirak-gil, Andong-si, Gyeongsangbuk-do",
+      email: "2027wyd.andong@gmail.com",
+      phone: "054-858-3114~5",
+      hours: "Hours: Mon-Fri 09:00~18:00 (Lunch 12:30~13:30)",
       copyright: "Copyright ⓒ Diocese of Andong All rights reserved",
     },
     slider: {
