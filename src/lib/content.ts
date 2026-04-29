@@ -20,7 +20,7 @@ export const content = {
       ogLocale: "ko_KR",
     },
     header: {
-      logoAlt: "wyd did 안동 로고",
+      logoAlt: "wyd did 안동",
       nav: {
         home: "홈",
         calendar: "캘린더",
@@ -31,7 +31,7 @@ export const content = {
       },
     },
     footer: {
-      logoAlt: "wyd did 안동 로고",
+      logoAlt: "wyd did 안동",
       address:
         "경상북도 안동시 마지락길 77",
       email: "2027wyd.andong@gmail.com",
@@ -78,7 +78,7 @@ export const content = {
       ogLocale: "en_US",
     },
     header: {
-      logoAlt: "wyd did Andong logo",
+      logoAlt: "wyd did Andong",
       nav: {
         home: "Home",
         calendar: "Calendar",
@@ -89,7 +89,7 @@ export const content = {
       },
     },
     footer: {
-      logoAlt: "wyd did Andong logo",
+      logoAlt: "wyd did Andong",
       address:
         "77, Majirak-gil, Andong-si, Gyeongsangbuk-do",
       email: "2027wyd.andong@gmail.com",
